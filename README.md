@@ -1,5 +1,9 @@
 # Flutter Laravel - Pertemuan 1
 Repository Mata Kuliah Proyek 4 Pengembangan Perangkat Lunak Berbasis Mobile : Flutter Laravel - Pertemuan 1
+Anggota Kelompok:
+- Fauza Naylassana (221511010)
+- M. Difa Alghifary (221511020)
+- Nisrina Wafa Zakiya (221511025)
 
 ## Laravel
 ![image](https://github.com/Fauzanaylassana98/Proyek-4/assets/86935367/43f8c632-3950-46f7-a5ec-1d5ff91b1015)
