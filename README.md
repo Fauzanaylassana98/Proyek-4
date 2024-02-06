@@ -5,7 +5,7 @@ Repository Mata Kuliah Proyek 4 Pengembangan Perangkat Lunak Berbasis Mobile : F
 ![image](https://github.com/Fauzanaylassana98/Proyek-4/assets/86935367/43f8c632-3950-46f7-a5ec-1d5ff91b1015)
 
 
-#Percobaan flutter (web)
+##Percobaan flutter (web)
 #Url untuk integrasi dengan laravel di Flutter:
 ```
 http://localhost:8000/api/hello
@@ -13,14 +13,14 @@ http://localhost:8000/api/hello
 ![image](https://github.com/Fauzanaylassana98/Proyek-4/assets/86935367/39d58ae9-98b7-44aa-8b3d-9d1139707f31)
 
 
-#Percobaan flutter (VM)
+##Percobaan flutter (VM)
 #Url untuk integrasi dengan laravel di Flutter:
 ```
 http://localhost:8000/api/hello
 ```
 ![image](https://github.com/Fauzanaylassana98/Proyek-4/assets/86935367/c97fce63-99c2-44b2-8147-89c695d3af7a)
 
-#Percobaan flutter (Android Device)
+##Percobaan flutter (Android Device)
 #Run laravel pada address yang sesuai (misal IP address computer)
 ```
  php artisan serve --host=(IP Computer) --port=(port)
