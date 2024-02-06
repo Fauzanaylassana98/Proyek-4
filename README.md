@@ -6,6 +6,11 @@ Repository Mata Kuliah Proyek 4 Pengembangan Perangkat Lunak Berbasis Mobile : F
 
 
 #Percobaan flutter (web)
+Url untuk integrasi:
+```
+http://localhost:8000/api/hello
+```
 ![image](https://github.com/Fauzanaylassana98/Proyek-4/assets/86935367/39d58ae9-98b7-44aa-8b3d-9d1139707f31)
+
 
 #Percobaan flutter (VM)
